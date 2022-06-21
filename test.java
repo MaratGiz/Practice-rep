@@ -1,8 +1,8 @@
 
-import Java.util.Scanner;
+//import Java.util.Scanner;
 
-public class Program {
-	public static void Main (String[] args) {
+public class test {
+	public static void main (String[] args) {
 		System.out.println("Test text");
 	}
 }
