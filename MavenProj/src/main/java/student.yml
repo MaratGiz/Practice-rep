@@ -1,0 +1,10 @@
+
+import java.util.Scanner;
+import java.io.InputStream;
+
+public class Program {
+	public static void main(String[] args) {
+		InputStream inputStream = new FileInputStream(new File("student.yml")); 
+		
+	}
+}
